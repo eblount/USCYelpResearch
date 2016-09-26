@@ -1,0 +1,6 @@
+{
+    "require": {
+        "stevenmaguire/yelp-php": "^1.4",
+        "goodby/csv": "^1.3"
+    }
+}
